@@ -16,7 +16,7 @@ h1 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     color:#a1969f;
 }
-.title a:hover {
+a:hover title{
   text-decoration: none;
 }
 
