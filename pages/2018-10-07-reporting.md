@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: 'Reporting'
 date: 2018-10-07
 ---
