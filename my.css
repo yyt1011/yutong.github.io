@@ -119,6 +119,18 @@ h2{
   font-size: 14px;
   font-style: italic;
 }
+/* end of reporting page */
+.graphics{
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.g1{
+  border:1px solid #d5d5d5;
+  width: 150px;
+}
+.g1 img{
+  width: 150px;
+}
 
 @media screen and (min-width:700px){
 
