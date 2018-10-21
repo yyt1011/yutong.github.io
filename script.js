@@ -21,5 +21,5 @@ $(function(){
       $(this).fadeIn();
     })
     console.log(galleryImage.attr("src"));
-  }, 2000);
+  }, 4000);
 });
