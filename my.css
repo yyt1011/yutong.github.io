@@ -144,13 +144,21 @@ h2{
   padding-top:5px;
 }
 .gtitle a{
-  color: black;
+  color: #a1969f;
   /* font-weight: bold;
   font-size: 22px;
   margin-top: 15px; */
 }
-.gtitle:last-child{
+/* .gtitle:last-child{
   border-bottom: none;
+} */
+.gother{
+  margin-top: 5px;
+  padding-top:5px;
+}
+.gother a{
+  color: #a1969f;
+  font-style: italic;
 }
 @media screen and (min-width:700px){
 
