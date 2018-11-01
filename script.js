@@ -10,7 +10,7 @@ $(function(){
       'image/7.jpg',
       'image/8.jpg',
       'image/9.jpg',
-      'image/10.jpg',
+      'image/10.png',
       'image/11.jpg'
   ];
   var i = 0;
