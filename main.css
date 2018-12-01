@@ -209,6 +209,21 @@ h1{
 .work_img img{
   max-width: 100%;
 }
+.second_chart_text{
+  text-align: center;
+}
+
+.lightbox {
+  position: relative;
+  display: none;
+  /* width: 30%;
+  height: 60%; */
+  /* padding: 15% 35% 25% 35%; */
+  color: #000000;
+  background-color: white;
+  text-align: center;
+  text-shadow: #333 0 1px 0; }
+
 
 /* This is reporting page */
 .readmore{
