@@ -62,6 +62,7 @@ a:hover {
 .social{
   display: block;
   width:5%;
+  margin-left: 5px;
 }
 /* .social img{
   position:fixed;
@@ -196,7 +197,14 @@ h1{
 }
 /* This is the end of home page */
 /* This is the beginning of charts  */
+.interactive{
+  display: block;
+  width:60%;
+  margin: auto;
+  border-top: 20px;
+}
 .works{
+  margin-top: 20px;
   display: flex;
   flex-wrap: wrap;
 }
@@ -206,8 +214,16 @@ h1{
   flex-basis: 40%;
 }
 
+.charttext a{
+  display: block;
+  font-size: 20px;
+  text-align: center;
+  font-weight: bold;
+}
+
 .work_img img{
   max-width: 100%;
+  margin-top: 10px;
 }
 .second_chart_text{
   text-align: center;
